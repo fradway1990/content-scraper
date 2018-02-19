@@ -1,5 +1,5 @@
 # content-scraper
-Content scraper used to scrape http://www.shirts4mike.com/
+Content scraper used to scrape content from websites
 
 npm packages dependencies:
 cheerio: ^0.22.0
